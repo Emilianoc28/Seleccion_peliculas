@@ -4,9 +4,9 @@ import pandas as pd
 app = FastAPI()
 
 # Rutas de los archivos CSV divididos
-CSV_PART_1 = "data/movies_parte_1.csv"
-CSV_PART_2 = "data/movies_parte_2.csv"
-CSV_PART_3 = "data/movies_parte_3.csv"
+CSV_PART_1 = "app/data/movies_parte_1.csv"
+CSV_PART_2 = "app/data/movies_parte_2.csv"
+CSV_PART_3 = "app/data/movies_parte_3.csv"
 
 # Cargar los datos de los tres archivos CSV al iniciar la aplicación
 try:

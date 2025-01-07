@@ -59,15 +59,15 @@ con un dashboard interactivo que muestra información clave de las películas.
 
 ## Estructura del proyecto
 
-├── app/
-│ ├── data/ # Dataset dividido en partes
-├── main.py # Código de la API
-├── dashboard.py # Código del dashboard interactivo
-├── requirements.txt # Dependencias del proyecto
-├── README.md # Este archivo
-├── popularidad_peliculas.gif # Grafica con la popularidad de las peliculas a lo largo del tiempo
-├── EDA.ipynb # Análisis Exploratorio de Datos (EDA)
-├── ML.ipynb # Modelo de ML
++ app/
+   + data/ # Dataset dividido en partes
++ main.py # Código de la API
++ dashboard.py # Código del dashboard interactivo
++ requirements.txt # Dependencias del proyecto
++ README.md # Este archivo
++ popularidad_peliculas.gif # Grafica con la popularidad de las peliculas a lo largo del tiempo
++ EDA.ipynb # Análisis Exploratorio de Datos (EDA)
++ ML.ipynb # Modelo de ML
 
 ---
 
